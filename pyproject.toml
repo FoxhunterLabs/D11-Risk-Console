@@ -1,0 +1,8 @@
+[project]
+name = "d11-risk-console"
+version = "0.1.0"
+description = "Human-centered risk reasoning console for D11-class heavy equipment"
+requires-python = ">=3.10"
+
+[tool.black]
+line-length = 100
