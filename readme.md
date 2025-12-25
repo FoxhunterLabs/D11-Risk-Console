@@ -1,5 +1,5 @@
 ________________________________________
-# d11-risk-console
+# D11-Risk-Console
 
 **Human-centered risk reasoning console for D11-class heavy equipment.**  
 Deterministic safety engine with ML advisory overlays that can only increase caution.  
